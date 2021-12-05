@@ -18,7 +18,6 @@
   - [Email](usage-email.md)
   - [Multi-language](usage-multi-language.md)
   - [Currencies](usage-currencies.md)
-  - [Newsletter](usage-newsletter.md)
   - [Ads](usage-ads.md)
   - [Setup Amazon S3](usage-media-s3.md)
   - [Analytics](usage-analytics.md)

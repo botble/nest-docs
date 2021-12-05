@@ -14,8 +14,8 @@ Just need to go to Admin -> Plugins then deactivate plugin Language and Language
 
 Menu maybe duplicated.
 
-![Image](https://live.staticflickr.com/65535/51301436311_fde7530ef5_b.jpg)
+![Image](https://live.staticflickr.com/65535/51726420800_42bbf40e54_b.jpg)
 
 You just need to go to Admin -> Appearance -> Menus to delete it.
 
-![Image](https://live.staticflickr.com/65535/51302452275_970554570d_b.jpg)
+![Image](https://live.staticflickr.com/65535/51726420825_fbf79297cb_b.jpg)
