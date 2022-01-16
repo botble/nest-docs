@@ -37,7 +37,7 @@
 - Improve custom CSS.
 - Optimize CSS/JS to improve performance.
 - Fully RTL support.
-- 
+
 <a name="version_1_0"></a>
 ## Nest 1.0
 ### Dec 04, 2021
