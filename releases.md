@@ -3,11 +3,6 @@
 - [Nest 1.1](#version_1_1)
 - [Nest 1.0](#version_1_0)
 
-<a name="version_1_0"></a>
-## Nest 1.0
-### Dec 04, 2021
-- Initial release version 1.0.
-
 <a name="version_1_1"></a>
 ## Nest 1.1
 ### Jan 16, 2022
@@ -42,3 +37,8 @@
 - Improve custom CSS.
 - Optimize CSS/JS to improve performance.
 - Fully RTL support.
+- 
+<a name="version_1_0"></a>
+## Nest 1.0
+### Dec 04, 2021
+- Initial release version 1.0.
