@@ -1,12 +1,32 @@
 # Release Notes
 
+- [Nest 1.2](#version_1_2)
 - [Nest 1.1](#version_1_1)
 - [Nest 1.0](#version_1_0)
+
+<a name="version_1_2"></a>
+## Nest 1.2
+### Feb 19, 2022
+- Add option to change city/state to dropdown. (Need to activate plugin Location in Admin -> Plugins,
+  enable "Load countries, states, cities from plugin location?" and add countries, states, cities in Admin -> Locations).
+- Fix product price on homepage blocks.
+- Fix issue with Cloudflare SSL.
+- Fix tree category & social links.
+- Fix duplicate shortcode in CKEditor.
+- Fix saving SEO meta tags.
+- Update product import template.
+- Improve invoice.
+- Improve license.
+- Improve permalink.
+- Improve dashboard widgets.
+- Improve core.
+- Prevent Method Not Allowed error when use ajax DELETE/PUT.
+- Add schema for post & page.
+- Update AWS S3 settings.
 
 <a name="version_1_1"></a>
 ## Nest 1.1
 ### Jan 16, 2022
-
 - Fix product gallery images in quick view.
 - Fix menu level 3, 4...
 - Fix issue product price / SKU is not changed when selecting attributes.
