@@ -7,8 +7,7 @@
 <a name="version_1_2"></a>
 ## Nest 1.2
 ### Feb 19, 2022
-- Add option to change city/state to dropdown. (Need to activate plugin Location in Admin -> Plugins,
-  enable "Load countries, states, cities from plugin location?" and add countries, states, cities in Admin -> Locations).
+- Add option to change city/state to dropdown. Check docs: [https://docs.botble.com/nest/1.x/usage-location](https://docs.botble.com/nest/1.x/usage-location).
 - Fix product price on homepage blocks.
 - Fix issue with Cloudflare SSL.
 - Fix tree category & social links.
