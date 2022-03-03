@@ -13,15 +13,15 @@ To display Bangladesh text in invoice, need to use font **FreeSerif**.
 - Copy file `platform/plugins/ecommerce/resources/views/invoices/template.blade.php` to `storage/app/invoices/template.blade.php` to start customize.
 - Change in CSS:
 ```CSS
-@font-face {
-  font-family: FreeSerif;
-  src: url('{{ url('FreeSerif.ttf') }}');
-}
-
-body {
-    font-size: 15px;
-    font-family: FreeSerif, Arial, sans-serif !important;
-}
+  @font-face {
+    font-family: FreeSerif;
+    src: url('{{ url('FreeSerif.ttf') }}');
+  }
+  
+  body {
+      font-size: 15px;
+      font-family: FreeSerif, Arial, sans-serif !important;
+  }
 ```
 
 Screenshot: 
