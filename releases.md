@@ -7,7 +7,7 @@
 <a name="version_1_2"></a>
 ## Nest 1.2
 ### Feb 19, 2022
-- Add option to change city/state to dropdown. Check docs: [https://docs.botble.com/nest/1.x/usage-location](https://docs.botble.com/nest/1.x/usage-location).
+- Add option to change city/state to dropdown. Check docs: [Location](usage-location.md).
 - Fix product price on homepage blocks.
 - Fix issue with Cloudflare SSL.
 - Fix tree category & social links.
