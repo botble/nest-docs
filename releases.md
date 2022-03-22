@@ -1,8 +1,35 @@
 # Release Notes
 
+- [Nest 1.3](#version_1_3)
 - [Nest 1.2](#version_1_2)
 - [Nest 1.1](#version_1_1)
 - [Nest 1.0](#version_1_0)
+
+<a name="version_1_3"></a>
+## Nest 1.3
+### Mar 22, 2022
+- Notify vendor when creating order from the admin panel.
+- Allow vendor to add product FAQ.
+- Allow vendor to update shipping status.
+- Add option to hide store phone number.
+- Popular Products section on homepage.
+- Fix gallery images for product variation.
+- Fix product's price.
+- Fix shipping address.
+- Fix product images in vendor dashboard.
+- Fix order creation.
+- Fix order cancellation.
+- Fix product name on invoice & reorder.
+- Fix city form.
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve shortcode [product-categories].
+- Improve vendor dashboard.
+- Improve plugin Location.
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_2"></a>
 ## Nest 1.2
