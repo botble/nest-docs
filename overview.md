@@ -8,7 +8,7 @@
 <a name="introduction"></a>
 ## Introduction
 
-Nest is a Multivendor Organic & Grocery Laravel eCommerce System using Laravel 8.x. It's a product built on Botble CMS.
+Nest is a Multivendor Organic & Grocery Laravel eCommerce System using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: `Dec 04, 2021`
 
