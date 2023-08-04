@@ -8,7 +8,8 @@ If you don't need it, you can deactivate plugin Newsletter in Admin -> Plugins.
 
 ![Image](https://live.staticflickr.com/65535/51301419431_a6fce8634a_b.jpg)
 
-To change texts, image, background image for this section or remove it, you can change it in Admin -> Appearance -> Widgets
+To change texts, image, background image for this section or remove it, you can change it in Admin -> Appearance ->
+Widgets
 
 ![Image](https://live.staticflickr.com/65535/51726231224_b1533bbd5a_b.jpg)
 
@@ -44,7 +45,7 @@ If you want to add more widgets, just drag and drop from the left side to sideba
 
 ![Image](https://live.staticflickr.com/65535/51726473620_c60b1524a1_b.jpg)
 
-If you want to disable widgets in the product detail page, you can set product layout in 
+If you want to disable widgets in the product detail page, you can set product layout in
 Admin -> Appearance -> Theme options (tab Ecommerce) and change Product Single Layout to full width.
 
 ![Image](https://live.staticflickr.com/65535/51302122444_5ee49ed1f9_b.jpg)
