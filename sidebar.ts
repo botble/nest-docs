@@ -27,7 +27,7 @@ export default [
       { text: 'Custom CSS/JS', link: '/wowy/usage-custom-css-js' },
       { text: 'Translation', link: '/wowy/usage-translation' },
       { text: 'Email', link: '/wowy/usage-email' },
-      { text: '[Multi-language', link: '/wowy/usage-multi-language' },
+      { text: 'Multi-language', link: '/wowy/usage-multi-language' },
       { text: 'Currencies', link: '/wowy/usage-currencies' },
       { text: 'Ads', link: '/wowy/usage-ads' },
       { text: 'Media - Setup Amazon S3', link: '/wowy/usage-media-s3' },
@@ -41,4 +41,4 @@ export default [
       { text: 'Invoice template', link: '/wowy/invoice-template' },
     ],
   },
-] satisfies DefaultTheme.SidebarItem[];
+] satisfies DefaultTheme.SidebarItem[]
