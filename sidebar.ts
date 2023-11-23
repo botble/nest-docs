@@ -24,7 +24,6 @@ export default [
       { text: 'Menu', link: '/nest/usage-menu' },
       { text: 'Theme options', link: '/nest/usage-theme-options' },
       { text: 'Widgets', link: '/nest/usage-widgets' },
-      { text: 'Rename theme', link: '/nest/theme-rename' },
       { text: 'Custom CSS/JS', link: '/nest/usage-custom-css-js' },
       { text: 'Translation', link: '/nest/usage-translation' },
       { text: 'Multi-language', link: '/nest/usage-multi-language' },
@@ -41,4 +40,10 @@ export default [
       { text: 'Ads', link: '/nest/usage-ads' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/nest/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[]
