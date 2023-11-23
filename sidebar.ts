@@ -28,13 +28,11 @@ export default [
       { text: 'Custom CSS/JS', link: '/nest/usage-custom-css-js' },
       { text: 'Translation', link: '/nest/usage-translation' },
       { text: 'Multi-language', link: '/nest/usage-multi-language' },
-      { text: 'Location', link: '/nest/usage-location' },
       { text: 'Google Analytics', link: '/nest/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/nest/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/nest/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/nest/usage-media-wasabi' },
       { text: 'Setup email', link: '/nest/usage-email' },
-      { text: 'Backup', link: '/nest/plugin-backup' },
 
       { text: 'Currencies', link: '/nest/usage-currencies' },
       { text: 'Setup social login', link: '/nest/usage-social-login' },
