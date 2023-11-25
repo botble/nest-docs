@@ -32,12 +32,12 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/nest/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/nest/usage-media-wasabi' },
       { text: 'Setup email', link: '/nest/usage-email' },
-
       { text: 'Currencies', link: '/nest/usage-currencies' },
       { text: 'Setup social login', link: '/nest/usage-social-login' },
       { text: 'Location', link: '/nest/usage-location' },
       { text: 'Invoice template', link: '/nest/invoice-template' },
       { text: 'Ads', link: '/nest/usage-ads' },
+      { text: 'Setup cronjob', link: '/nest/cronjob' },
     ],
   },
   {
