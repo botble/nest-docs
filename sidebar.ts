@@ -38,6 +38,7 @@ export default [
       { text: 'Invoice template', link: '/nest/invoice-template' },
       { text: 'Ads', link: '/nest/usage-ads' },
       { text: 'Setup cronjob', link: '/nest/cronjob' },
+      { text: 'Newsletter', link: '/nest/usage-newsletter' },
     ],
   },
   {
