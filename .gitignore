@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 api.md
+cronjob.md
 installation.md
 invoice-template.md
 license.md
@@ -19,5 +20,4 @@ usage-media-wasabi.md
 usage-multi-language.md
 usage-newsletter.md
 usage-social-login.md
-cronjob.md
 usage-translation.md
