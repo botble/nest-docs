@@ -20,9 +20,9 @@ Homepage: [https://nest.botble.com](https://nest.botble.com)
 
 Admin Area: [https://nest.botble.com/admin](https://nest.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Features
 
